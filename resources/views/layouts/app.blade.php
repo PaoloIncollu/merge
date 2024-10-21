@@ -25,7 +25,9 @@
 
                     <div class="col">
 
-
+                        <h2>
+                            Michele Bonanno
+                        </h2>
 
                         @yield('main-content')
 
@@ -36,6 +38,7 @@
         </main>
 
         @include('partials.footer')
+        @include('partials.gaetano')
 
         {{-- JS da importare nel body --}}
         @yield('body-imports')
