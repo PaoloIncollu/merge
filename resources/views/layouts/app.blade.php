@@ -25,7 +25,9 @@
 
                     <div class="col">
 
-
+                        <h2>
+                            Michele Bonanno
+                        </h2>
 
                         @yield('main-content')
 
