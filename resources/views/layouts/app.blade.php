@@ -38,6 +38,7 @@
         </main>
 
         @include('partials.footer')
+        @include('partials.gaetano')
 
         {{-- JS da importare nel body --}}
         @yield('body-imports')
